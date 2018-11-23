@@ -78,6 +78,10 @@ Deployed instances with significant funds
 - MysteriumDev [0x7e6614722614e434c4df9901bab31e466ba12fa4](https://etherscan.io/address/0x7e6614722614e434c4df9901bab31e466ba12fa4)
 - District0x [0xd20e4d854c71de2428e1268167753e4c7070ae68](https://etherscan.io/address/0xd20e4d854c71de2428e1268167753e4c7070ae68)
 
+WRITTEN BY CHATTERTECHNO
+-------------
+-RENEE KROM .[EMAIL](mailto:reneekrom28@yahoo.com)
+
 
 License
 -------------
