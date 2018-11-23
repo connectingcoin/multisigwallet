@@ -1,3 +1,5 @@
+//written by chattertecho
+//author RENEE KROM reneekrom28@yahoo.com
 pragma solidity ^0.4.25;
 
 contract Migrations {
